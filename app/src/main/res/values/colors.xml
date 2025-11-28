@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="material_dynamic_neutral70">#FFFAFAFA</color>
+    <color name="material_dynamic_neutral50">#FFFAFAFA</color>
+    <color name="material_dynamic_neutral30">#FFFAFAFA</color>
+    <color name="material_dynamic_primary80">#FFFAFAFA</color>
+    <color name="material_dynamic_primary60">#FFFAFAFA</color>
+    <color name="material_dynamic_primary40">#FFFAFAFA</color>
+
+</resources>

@@ -8,5 +8,6 @@
 ## Optional
 - [x] toggle the flashcard between the question side and the answer side
 - [x] Style the question and answer side of the card to better distinguish between the two sides
-<img src="![projet](https://github.com/user-attachments/assets/3c93fa80-573f-46db-8eaf-fd8d2bc54dbc)
+<img src="projet.gif
+
 " width="200" height="400" />  
